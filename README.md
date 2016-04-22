@@ -1,5 +1,6 @@
-# appmotion GmbH 3.0.0
+# appmotion GmbH Release Notes
 
-- Initital Setup of the Git Repositiory 
+## Version: 3.0.0
+- Initital setup of the repositiory to publish further changes to the company
 - All future changes to the company will be commited to this account including release notes.
-
+- added new logo to the repository
