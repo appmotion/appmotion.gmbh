@@ -2,5 +2,5 @@
 
 ## Version: 3.0.0
 - Initital setup of the repositiory to publish further changes to the company
-- All future changes to the company will be commited to this account including release notes.
+- changes team structure to team “EVO” and Team “REVO”
 - added new logo to the repository
